@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Eric Sandridge - Coding projects
+description: Various projects completed during my MSBA program at the College of William and Mary
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
