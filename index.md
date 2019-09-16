@@ -1,6 +1,6 @@
 ---
-Title: Eric Sandridge - Coding projects
-Description: Various projects completed during my MSBA program at the College of William and Mary
+title: Eric Sandridge - Coding projects
+description: Various projects completed during my MSBA program at the College of William and Mary
 ---
 
 Example Visualizations prepared during Competing Through Business Analytics Course:
