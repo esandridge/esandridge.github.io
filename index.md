@@ -4,6 +4,6 @@ Description: Various projects completed during my MSBA program at the College of
 ---
 
 Example Visualizations prepared during Competing Through Business Analytics Course:
-[Link to Visualization Projects](VisualizationProjects/index.md).
+[Visualization Projects](VisualizationProjects/index.md).
 
 
