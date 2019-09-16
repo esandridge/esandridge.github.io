@@ -5,8 +5,10 @@ description: Various projects completed during my MSBA program at the College of
 
 Example Visualizations prepared during Competing Through Business Analytics Course:
 
-![Example Scatter](/pics/sepLenPetLen.jpg)
-
 [Visualization Projects](VisualizationProjects/index.md).
 
 
+![Example Scatter](/pics/sepLenPetLen.jpg)
+
+
+[Pandas Coding Example Repository](https://github.com/esandridge/Pandas)
